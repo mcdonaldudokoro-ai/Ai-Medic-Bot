@@ -12,7 +12,7 @@ My strength is converting complex technical and data-driven requirements into pr
 
 ---
 
-## Artifact #1  
+## Artifact 2  
 ### Title  
 AI Medic Bot – A Clinical Decision-Support Chatbot for Emergency Room Scenarios
 
